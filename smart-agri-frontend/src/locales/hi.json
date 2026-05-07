@@ -1,0 +1,12 @@
+{
+  "appName": "स्मार्ट कृषि सहायक",
+  "login": "लॉगिन",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "farmerLogin": "किसान लॉगिन",
+  "dashboard": "डैशबोर्ड",
+  "cropDetection": "फसल पहचान",
+  "livestockHealth": "पशु स्वास्थ्य",
+  "marketplace": "बाज़ार",
+  "schemes": "सरकारी योजनाएँ"
+}

@@ -1,0 +1,67 @@
+.dashboard-container {
+  padding: 30px 50px;
+}
+
+/* Hero Section */
+.hero-section {
+  background: linear-gradient(90deg, #2e7d32, #66bb6a);
+  border-radius: 18px;
+  padding: 40px;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.hero-text h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.hero-text p {
+  margin-bottom: 20px;
+  opacity: 0.9;
+}
+
+.primary-btn {
+  padding: 12px 22px;
+  background: white;
+  color: #2e7d32;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+/* Cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+}
+
+.feature-card {
+  background: white;
+  padding: 25px;
+  border-radius: 16px;
+  cursor: pointer;
+  text-align: center;
+  transition: 0.25s;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+}
+
+.feature-card:hover {
+  transform: translateY(-6px);
+}
+
+.feature-card img {
+  width: 70px;
+  margin-bottom: 15px;
+}
+
+.feature-card h3 {
+  margin-bottom: 8px;
+  color: #2e7d32;
+}
+
+.feature-card p {
+  color: #6b7280;
+  font-size: 14px;
+}

@@ -1,0 +1,44 @@
+.market-container {
+  padding: 40px;
+  text-align: center;
+}
+
+.market-container h2 {
+  color: #2e7d32;
+  margin-bottom: 30px;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.product-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.product-card h3 {
+  color: #2e7d32;
+  margin-bottom: 10px;
+}
+
+.buy-btn {
+  margin-top: 10px;
+  padding: 8px 15px;
+  background: #2e7d32;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.buy-btn:hover {
+  background: #1b5e20;
+}

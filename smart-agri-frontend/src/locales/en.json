@@ -1,0 +1,12 @@
+{
+  "appName": "Smart Agri Assist",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "farmerLogin": "Farmer Login",
+  "dashboard": "Dashboard",
+  "cropDetection": "Crop Detection",
+  "livestockHealth": "Livestock Health",
+  "marketplace": "Marketplace",
+  "schemes": "Government Schemes"
+}
