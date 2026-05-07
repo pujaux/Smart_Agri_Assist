@@ -69,20 +69,29 @@ __Key Features:__
 
 __Frontend:__
 React.js — Component-based UI with responsive design
+
 Axios — Async API communication
 
 __Backend:__
 Python + Flask — RESTful API server
+
 JWT — Stateless authentication
+
 bcrypt — Password hashing
 
 __AI / Machine Learning:__
+
 TensorFlow / PyTorch — Deep learning model training
+
 OpenCV — Image preprocessing pipeline
+
 Scikit-learn — Auxiliary ML tasks (yield prediction, pest estimation)
+
 CNN Architectures: MobileNet, ResNet (transfer learning)
 
+
 __Database:__
+
 PostgreSQL / MySQL — Relational data storage with ACID compliance
 
 
