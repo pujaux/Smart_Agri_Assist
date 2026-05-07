@@ -61,6 +61,10 @@ __Key Features:__
 
 
 
+
+
+
+
  __Tech Stack:__
 
 __Frontend:__
@@ -86,6 +90,10 @@ PostgreSQL / MySQL — Relational data storage with ACID compliance
 
 
 
+
+
+
+
 🔮 __Future Roadmap:__
 
  IoT sensor integration for real-time soil and climate monitoring
@@ -102,6 +110,7 @@ PostgreSQL / MySQL — Relational data storage with ACID compliance
  
  Livestock nutrition planner
  
+
 
 
 
