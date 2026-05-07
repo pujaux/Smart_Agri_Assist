@@ -40,15 +40,25 @@ The platform features a clean, multi-language dashboard with easy navigation acr
 
 __Key Features:__
 
-Feature : Description
+  Feature : Description
+
 🌿 Crop Disease DetectionCNN-based image analysis detects diseases with up to 94% accuracy
+
 🐄 Livestock Health MonitoringMultimodal diagnosis combining image + symptom text input
+
 🤖 Smart Recommendation EnginePersonalized farming plans based on land, budget, soil & climate
+
 🛒 Direct MarketplaceSell produce directly to buyers — no intermediaries
+
 🏛️ Government SchemesSearchable database of agricultural support programs
+
 🌦️ Climate Risk PredictionWeather-aware farming advisories
+
 🌍 Multilingual Voice AssistantRegional language support for accessibility
+
 📊 Yield PredictionML-based crop yield forecasting
+
+
 
 
  __Tech Stack:__
@@ -73,16 +83,27 @@ PostgreSQL / MySQL — Relational data storage with ACID compliance
 
 
 
+
+
+
 🔮 __Future Roadmap:__
 
  IoT sensor integration for real-time soil and climate monitoring
+ 
  Improve ux/ui
+ 
  Drone-based crop surveillance
+ 
  Blockchain-powered supply chain transparency
+ 
  Offline mode for low-connectivity rural areas
+ 
  Community discussion forum
+ 
  Livestock nutrition planner
  
+
+
 
  📄 __License__
 This project was developed for academic purposes under the EPICS (Engineering Projects in Community Service) program at VIT Bhopal University. All rights reserved by the team.
