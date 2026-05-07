@@ -1,4 +1,4 @@
-🌾 #Smart Agri Assist Platform
+🌾 __Smart Agri Assist Platform__
 
 An AI-Driven Decision Support and Marketplace System for Crop and Livestock Farmers
 <img width="1366" height="731" alt="Screenshot (991)" src="https://github.com/user-attachments/assets/7e5dfad5-ac91-46ee-8155-f891e4924edc" />
