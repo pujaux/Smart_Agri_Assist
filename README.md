@@ -3,7 +3,7 @@
 An AI-Driven Decision Support and Marketplace System for Crop and Livestock Farmers
 <img width="1366" height="731" alt="Screenshot (991)" src="https://github.com/user-attachments/assets/7e5dfad5-ac91-46ee-8155-f891e4924edc" />
 
-#Crop Disease Detection — Before & After:
+Crop Disease Detection — Before & After:
 <img width="1366" height="731" alt="Screenshot (993)" src="https://github.com/user-attachments/assets/a6ebf4ea-b1af-4b00-aade-8fad4a5d49cb" />
 
 <img width="1366" height="729" alt="Screenshot (994)" src="https://github.com/user-attachments/assets/18a4504d-3af3-4ab6-81c4-3606c2b281b5" />
