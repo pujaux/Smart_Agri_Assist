@@ -8,7 +8,7 @@ An AI-Driven Decision Support and Marketplace System for Crop and Livestock Farm
 
 <img width="1366" height="729" alt="Screenshot (994)" src="https://github.com/user-attachments/assets/18a4504d-3af3-4ab6-81c4-3606c2b281b5" />
 
-🐄 #Livestock Health Detection:
+ #Livestock Health Detection:
 <img width="1366" height="695" alt="Screenshot (996)" src="https://github.com/user-attachments/assets/ee92b1ff-dbd9-4eeb-9ca7-651329609f1e" />
 
 🛒 #Marketplace — Direct Farmer-to-Buyer:
