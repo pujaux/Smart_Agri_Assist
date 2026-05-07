@@ -67,19 +67,21 @@ __Key Features:__
 
  __Tech Stack:__
 
-__Frontend:__
+   1)__Frontend:__
+   
 React.js — Component-based UI with responsive design
 
 Axios — Async API communication
 
-__Backend:__
+   2)__Backend:__
+   
 Python + Flask — RESTful API server
 
 JWT — Stateless authentication
 
 bcrypt — Password hashing
 
-__AI / Machine Learning:__
+   3)__AI / Machine Learning:__
 
 TensorFlow / PyTorch — Deep learning model training
 
@@ -90,7 +92,7 @@ Scikit-learn — Auxiliary ML tasks (yield prediction, pest estimation)
 CNN Architectures: MobileNet, ResNet (transfer learning)
 
 
-__Database:__
+   4)__Database:__
 
 PostgreSQL / MySQL — Relational data storage with ACID compliance
 
