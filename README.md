@@ -105,7 +105,10 @@ PostgreSQL / MySQL — Relational data storage with ACID compliance
 
 
 
-🔮 __Future Roadmap:__
+
+🔮   __Future Roadmap:__
+
+
 
  IoT sensor integration for real-time soil and climate monitoring
  
